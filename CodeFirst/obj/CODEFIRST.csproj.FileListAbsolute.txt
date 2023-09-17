@@ -1,0 +1,16 @@
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\obj\Debug\CODEFIRST.csproj.AssemblyReference.cache
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\obj\Debug\CODEFIRST.Form1.resources
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\obj\Debug\CODEFIRST.Properties.Resources.resources
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\obj\Debug\CODEFIRST.csproj.GenerateResource.cache
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\obj\Debug\CODEFIRST.csproj.CoreCompileInputs.cache
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\bin\Debug\CODEFIRST.exe.config
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\bin\Debug\CODEFIRST.exe
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\bin\Debug\CODEFIRST.pdb
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\bin\Debug\EntityFramework.dll
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\bin\Debug\EntityFramework.xml
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\obj\Debug\CODEFIRST.csproj.CopyComplete
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\obj\Debug\CODEFIRST.exe
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\obj\Debug\CODEFIRST.pdb
+C:\Users\humna.ghaffar\source\repos\CODEFIRST\CODEFIRST\obj\Debug\CODEFIRST.Migrations.MyFirstMigration.resources
